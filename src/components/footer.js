@@ -91,7 +91,7 @@ const Footer = () => {
 
   return (
     <StyledFooter>
-      <StyledSocialLinks>
+      {/* <StyledSocialLinks>
         <ul>
           {socialMedia &&
             socialMedia.map(({ name, url }, i) => (
@@ -102,13 +102,13 @@ const Footer = () => {
               </li>
             ))}
         </ul>
-      </StyledSocialLinks>
+      </StyledSocialLinks> */}
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/HarshithaSivalingala/Portfolio">
           <div>Built by Harshitha (With Oatmilk Matcha &amp; Lavender ✨) </div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
@@ -119,7 +119,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )}
+          )} */}
         </a>
       </StyledCredit>
     </StyledFooter>
