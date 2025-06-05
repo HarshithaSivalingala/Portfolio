@@ -143,6 +143,12 @@ const StyledTestimonialsSection = styled.section`
 const testimonialsData = [
   {
     quote:
+      'I had the opportunity to work with Harshitha during her time as a master’s student in Computer Science at Iowa State University. Harshitha approaches her work with confidence and determination, and she brings a focused mindset to the tasks she takes on. I wish her success as she enters the job market.',
+    author: 'Regis Kopper',
+    position: 'Professor at Computer Science at Iowa State University',
+  },
+  {
+    quote:
       'I had the pleasure of working with Harshitha during our undergraduation in 2023, on a full-stack project involving React and NodeJS, and I was thoroughly impressed by her technical skills and dedication.From designing clean and responsive front-end components in React to integrating back-end logic, she consistently delivered high-quality work with precision and care.Beyond her technical strengths, what truly stands out is her collaborative spirit.\n\n She’s an exceptional team player who brings a positive attitude to every discussion, is always open to feedback, and never hesitates to lend a hand when someone needs support. \n\nHer commitment to deadlines, problem-solving ability, and attention to detail made a significant impact on the success of our project.I highly recommend Harshitha to any team looking for a skilled, motivated, and reliable developer. She’s a valuable asset wherever she goes.',
     author: 'Pratyusha Paluchani',
     position: 'Engineering Analyst at Goldman Sachs',
