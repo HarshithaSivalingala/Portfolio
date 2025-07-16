@@ -26,17 +26,17 @@ To run the portfolio locally, follow these steps:
    ```bash
    git clone https://github.com/HarshithaSivalingala/Portfolio.git
 2. **Navigate into the project folder:**
-```bash
-  cd Portfolio
-```  
+  ```bash
+    cd Portfolio
+  ```  
 3. **Install the dependencies:**
-```bash
-  npm install
-``` 
+  ```bash
+    npm install
+  ``` 
 4. **Start the development server:**
-```bash
-npm start
-```
+  ```bash
+  npm start
+  ```
 
 ---
 Made with ❤️ by Harshitha Sivalingala    
