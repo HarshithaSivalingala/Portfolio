@@ -29,11 +29,11 @@ To run the portfolio locally, follow these steps:
 ```bash
   cd Portfolio
 ```  
-3. **Install the dependencies
+3. **Install the dependencies:**
 ```bash
   npm install
 ``` 
-4. **Start the development server
+4. **Start the development server:**
 ```bash
 npm start
 ```
