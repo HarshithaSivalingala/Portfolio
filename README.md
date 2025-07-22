@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This project is a representation of my skills,
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://harshithasv-portfolio.netlify.app)
+👉 [View Live Site](https://harshithasivalingala.netlify.app/)
 
 ---
 
