@@ -40,6 +40,7 @@ To run the portfolio locally, follow these steps:
   ```
 
 ---
+
 Made with ❤️ by Harshitha Sivalingala    
-🌱 If you're on a similar path or working on something exciting, feel free to connect — I'm always open to learning, sharing, and collaborating!
+🌱 If you're on a similar path or working on something exciting, feel free to connect. I'm always open to learning, sharing, and collaborating!
 
