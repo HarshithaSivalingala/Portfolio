@@ -79,7 +79,7 @@ const Hero = () => {
       <p>
         I’m a software developer passionate about building scalable, user-centered solutions that
         make a real impact. Driven by curiosity and a love for innovation, I’m constantly exploring
-        new ways to create intuitive, accessible products that put people first.
+        new ways to create intuitive, accessible products that put people first. I also enjoy using AI automation to streamline experiences and solve problems at scale.
       </p>
       <p>
         {' '}
