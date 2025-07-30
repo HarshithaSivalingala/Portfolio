@@ -68,7 +68,7 @@ const Contact = () => {
       <p>
         I'm currently seeking internship or entry-level opportunities in software development. I'm
         passionate about building impactful solutions and always eager to learn and grow. If you
-        think I’d be a good fit for your team or just want to connect, feel free to reach out — I’d
+        think I’d be a good fit for your team or just want to connect, feel free to reach out. I’d
         love to chat!
       </p>
 
